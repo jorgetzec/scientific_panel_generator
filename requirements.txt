@@ -1,0 +1,13 @@
+# Dependencias para Scientific Panel Creator
+# ==========================================
+# 
+# Archivo de dependencias para scientific_panel_master.py
+# Instalar con: pip install -r scientific_panel_requirements.txt
+
+# PyMuPDF - Manipulación vectorial de PDFs
+# Usado para crear paneles científicos con calidad vectorial
+pymupdf>=1.23.0
+
+# ReportLab - Cálculos de layout y unidades
+# Usado para conversiones de unidades (mm) y tamaños de página
+reportlab>=4.0.0

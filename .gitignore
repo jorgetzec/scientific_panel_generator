@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Entorno de trabajo
+.vscode/
+.idea/
+
+# Proyecto - Backups y Archivos Generados
+backups/
+test_*.pdf
+test_*.png
+test_*.tiff
+test_*.svg
+ejemplo_*.pdf
+ejemplo_*.png
+ejemplo_*.tiff
+ejemplo_*.svg
+test.pdf
+
+# OS
+.DS_Store
+Thumbs.db
