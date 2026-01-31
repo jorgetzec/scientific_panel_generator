@@ -59,7 +59,9 @@ El script calculará el alto ideal (aprox 266mm) para que la imagen de abajo ocu
 python scientific_panel_generator.py --layout 2,1 --input FigA.pdf FigB.pdf FigC.pdf --output ejemplo_1_auto_height.pdf --page-width 180
 ```
 
-![Ejemplo 1 - Auto Height](ejemplo_1_auto_height.png)
+<p align="center">
+  <img src="ejemplo_1_auto_height.png" width="50%" alt="Ejemplo de ajuste de altura automático" />
+</p>
 
 ### 2. Exportar a PNG para Publicación (300 DPI)
 
@@ -67,7 +69,9 @@ python scientific_panel_generator.py --layout 2,1 --input FigA.pdf FigB.pdf FigC
 python scientific_panel_generator.py --layout 2,1 --input FigA.pdf FigB.pdf FigC.pdf --output ejemplo_2_png_300dpi.png --dpi 300
 ```
 
-![Ejemplo 2 - Exportación PNG](ejemplo_2_png_300dpi.png)
+<p align="center">
+  <img src="ejemplo_2_png_300dpi.png" width="50%" alt="Ejemplo de exportación a PNG" />
+</p>
 
 ### 3. Layout de Rejilla (2x2)
 
@@ -75,7 +79,9 @@ python scientific_panel_generator.py --layout 2,1 --input FigA.pdf FigB.pdf FigC
 python scientific_panel_generator.py --layout 2x2 --input FigA.pdf FigB.pdf FigC.pdf FigD.pdf --output ejemplo_3_grid_2x2.pdf
 ```
 
-![Ejemplo 3 - Rejilla 2x2](ejemplo_3_grid_2x2.png)
+<p align="center">
+  <img src="ejemplo_3_grid_2x2.png" width="50%" alt="Ejemplo de rejilla 2x2" />
+</p>
 
 ### 4. Layout Complejo con Etiquetas Personalizadas
 
@@ -83,7 +89,9 @@ python scientific_panel_generator.py --layout 2x2 --input FigA.pdf FigB.pdf FigC
 python scientific_panel_generator.py --layout 2,2,1 --input FigA.pdf FigB.pdf FigC.pdf FigD.pdf FigE.pdf --output ejemplo_4_complejo.pdf --labels "Mutante" "WT" "Control" "Tratado" "Resultado Final" --label-size 12
 ```
 
-![Ejemplo 4 - Panel Complejo](ejemplo_4_complejo.png)
+<p align="center">
+  <img src="ejemplo_4_complejo.png" width="50%" alt="Ejemplo de panel complejo" />
+</p>
 
 ### 5. Configuración de Márgenes y Espaciado
 
@@ -91,7 +99,9 @@ python scientific_panel_generator.py --layout 2,2,1 --input FigA.pdf FigB.pdf Fi
 python scientific_panel_generator.py --layout 3 --input FigA.pdf FigB.pdf FigC.pdf --output ejemplo_5_wide_panel.pdf --margin 2 --spacing 1
 ```
 
-![Ejemplo 5 - Panel Ancho](ejemplo_5_wide_panel.png)
+<p align="center">
+  <img src="ejemplo_5_wide_panel.png" width="50%" alt="Ejemplo de panel ancho" />
+</p>
 
 ---
 
