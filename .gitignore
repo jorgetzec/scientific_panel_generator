@@ -27,10 +27,6 @@ test_*.pdf
 test_*.png
 test_*.tiff
 test_*.svg
-ejemplo_*.pdf
-ejemplo_*.png
-ejemplo_*.tiff
-ejemplo_*.svg
 test.pdf
 
 # OS
