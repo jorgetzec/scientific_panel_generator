@@ -1,5 +1,10 @@
 # Scientific Panel Generator
 
+![Python 3.10+](https://img.shields.io/badge/Python-3.10+-brightgreen?style=flat-square&logo=python)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
+![PyMuPDF](https://img.shields.io/badge/PDF_Engine-PyMuPDF-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+
 Este script combina múltiples figuras PDF en un solo panel, respetando las proporciones originales y optimizando el espacio automáticamente.
 
 ## Características Principales
