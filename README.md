@@ -105,7 +105,7 @@ python scientific_panel_generator.py --layout 3 --input FigA.pdf FigB.pdf FigC.p
 ```
 
 <p align="center">
-  <img src="ejemplo_5_wide_panel.png" width="50%" alt="Ejemplo de panel ancho" />
+  <img src="ejemplo_5_wide_panel.png" width="70%" alt="Ejemplo de panel ancho" />
 </p>
 
 ---
